@@ -1,8 +1,8 @@
-# Shopping Cart [In progress]
+# Shopping Cart
 
 Link: https://shopping-cart-lordlez.netlify.app/
 
-Tech
+*Tecnologías:
 - React
 - JavaScript
 - Vite
